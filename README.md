@@ -1,2 +1,2 @@
-# spikorp-exemple
-exemple for a tutorial
+# Hi
+This is an image hosting site for my interactive story
